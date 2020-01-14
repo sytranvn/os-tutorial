@@ -92,3 +92,30 @@ This is a personal learning project, and even though it hasn't been updated for 
 I'm thankful to all those who have pointed out bugs and submitted pull requests. I will need some time to review everything and I cannot guarantee that at this moment.
 
 Please feel free to fork this repo. If many of you are interested in continuing the project, let me know and I'll link the "main fork" from here.
+
+# TODO
+- [ ][00-environment/](00-environment/) 
+- [ ][01-bootsector-barebones/](01-bootsector-barebones/) 
+- [ ][02-bootsector-print/](02-bootsector-print/) 
+- [ ][03-bootsector-memory/](03-bootsector-memory/) 
+- [ ][04-bootsector-stack/](04-bootsector-stack/) 
+- [ ][05-bootsector-functions-strings/](05-bootsector-functions-strings/) 
+- [ ][06-bootsector-segmentation/](06-bootsector-segmentation/) 
+- [ ][07-bootsector-disk/](07-bootsector-disk/) 
+- [ ][08-32bit-print/](08-32bit-print/) 
+- [ ][09-32bit-gdt/](09-32bit-gdt/) 
+- [ ][10-32bit-enter/](10-32bit-enter/) 
+- [ ][11-kernel-crosscompiler/](11-kernel-crosscompiler/) 
+- [ ][12-kernel-c/](12-kernel-c/) 
+- [ ][13-kernel-barebones/](13-kernel-barebones/) 
+- [ ][14-checkpoint/](14-checkpoint/) 
+- [ ][15-video-ports/](15-video-ports/) 
+- [ ][16-video-driver/](16-video-driver/) 
+- [ ][17-video-scroll/](17-video-scroll/) 
+- [ ][18-interrupts/](18-interrupts/) 
+- [ ][19-interrupts-irqs/](19-interrupts-irqs/) 
+- [ ][20-interrupts-timer/](20-interrupts-timer/) 
+- [ ][21-shell/](21-shell/) 
+- [ ][22-malloc/](22-malloc/) 
+- [ ][23-fixes/](23-fixes/) 
+- [ ][24-el-capitan/](24-el-capitan/) 
